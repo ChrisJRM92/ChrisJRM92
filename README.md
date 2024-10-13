@@ -1,9 +1,6 @@
 ## Hi, I'm Christian 👋
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChrisJRM92&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisJRM92&layout=compact&theme=gotham" />
-</a>
-
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=tienhuynh-tn&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=tienhuynh-tn&theme=react-dark"/>
+</div>
